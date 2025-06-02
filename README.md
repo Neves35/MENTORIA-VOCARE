@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daniel Neves - Soldados em Chamas</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      margin: 0;
+      background: #fff;
+      color: #222;
+      line-height: 1.6;
+      padding: 0 1rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem 3rem;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 0.2rem;
+      color: #b8860b; /* dourado */
+      font-weight: 900;
+    }
+    header p.subtitle {
+      font-size: 1.1rem;
+      font-style: italic;
+      color: #555;
+    }
+    section {
+      margin-bottom: 3rem;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 2rem;
+    }
+    h2 {
+      color: #b8860b;
+      border-left: 5px solid #b8860b;
+      padding-left: 0.5rem;
+      margin-bottom: 1rem;
+      font-weight: 800;
+      font-size: 1.9rem;
+    }
+    h3 {
+      font-weight: 700;
+      color: #444;
+      margin-bottom: 1rem;
+      font-size: 1.4rem;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    ul {
+      margin-left: 1.2rem;
+      margin-bottom: 1rem;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
+    blockquote {
+      font-style: italic;
+      color: #666;
+      border-left: 3px solid #b8860b;
+      padding-left: 1rem;
+      margin: 1rem 0;
+      background: #fff8dc;
+    }
+    .button {
+      display: inline-block;
+      background-color: #b8860b;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+      margin-top: 1rem;
+    }
+    .button:hover {
+      background-color: #8b6508;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 0;
+      font-size: 0.9rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Soldados em Chamas</h1>
+    <p class="subtitle">A Batalha Espiritual e o Poder do Espírito Santo</p>
+    <p><em>Por Daniel Neves</em></p>
+  </header>
+
+  <section id="livro">
+    <h2>📖 Livro: Soldados em Chamas</h2>
+    <p>Se você é um soldado de Cristo, este livro é pra você.</p>
+    <p>Este livro descreve as armas espirituais do cristão e mostra como viver cheio do Espírito Santo em tempos onde muitos soldados estão caindo no campo de batalha.</p>
+    <p>Ao final, você será impactado e desejoso de ser um soldado em chamas.</p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Quero saber mais sobre o livro</a>
+  </section>
+
+  <section id="curso">
+    <h2>🎓 Curso Online: Fundamentos da Fé Trinitária</h2>
+    <p>Neste curso, você vai aprender de forma calma e profunda sobre a doutrina da Santíssima Trindade, uma das doutrinas mais extraordinárias da fé cristã.</p>
+    <p>O curso é composto de 10 módulos, gravados em 22 vídeo aulas, com carga horária total de 10 horas.</p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Quero me inscrever no curso</a>
+  </section>
+
+  <section id="treinamento-emocional">
+    <h2>💼 Treinamento: Inteligência Emocional para a Liderança Cristã</h2>
+    <p>Capacitação para quem exerce cargos de liderança na igreja ou fora.</p>
+    <p>Encontros online com material de apoio incluso para ajudar você a liderar com equilíbrio emocional e sabedoria.</p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Quero participar do treinamento</a>
+  </section>
+
+  <section id="treinamento-pregadores">
+    <h2>🗣️ Treinamento para Pregadores</h2>
+    <h3>A Arte da Oratória e da Homilética Aplicada</h3>
+    <p>Você foi chamado para pregar. Mas todo chamado precisa de preparo.</p>
+    <p>Este treinamento foi desenvolvido para pregadores iniciantes e experientes que desejam refinar suas habilidades de comunicação, interpretação bíblica e aplicação prática da Palavra com clareza, poder e impacto.</p>
+    <ul>
+      <li>📖 Como estruturar uma pregação bíblica com começo, meio e fim</li>
+      <li>🧠 Técnicas de oratória aplicadas à pregação cristã</li>
+      <li>🔥 Como pregar com unção, sem perder a clareza e profundidade</li>
+      <li>🎯 Como aplicar a homilética na edificação do corpo de Cristo</li>
+    </ul>
+    <p><strong>É mais que um curso. É um afiar de espadas para quem leva a Palavra a sério.</strong></p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Quero me inscrever no treinamento</a>
+  </section>
+
+  <section id="mentoria-vocare">
+    <h2>🔥 Mentoria VOCARE</h2>
+    <p><strong>Reanimando vocacionados e fortalecendo líderes com propósito.</strong></p>
+    <p>VOCARE é mais do que uma mentoria — é uma convocação celestial para líderes vocacionados que precisam ser reanimados, fortalecidos e capacitados para avançar com êxito.</p>
+    <p><strong>E o melhor:</strong> é 100% online, podendo ser feita em grupo (com outros líderes) ou individualmente, de acordo com sua necessidade.</p>
+    <h3>📍 O que é a VOCARE?</h3>
+    <p>Uma jornada com 4 encontros intensos, práticos e espirituais, feita para líderes que:</p>
+    <ul>
+      <li>✅ Querem reencontrar propósito e ânimo em sua vocação</li>
+      <li>✅ Precisam ativar uma visão renovada, alinhada ao céu</li>
+      <li>✅ Desejam reacender a paixão por discipular vidas</li>
+      <li>✅ Buscam capacitação prática para viver com intencionalidade e poder</li>
+      <li>✅ Precisam ser revestidos e enviados com autoridade e fogo do Espírito Santo</li>
+    </ul>
+    <blockquote><strong>📖 “Eis que sobre vós envio a promessa do meu Pai...” (Lucas 24:49)</strong></blockquote>
+    <p>O que foi prometido está disponível. Mas é preciso estar pronto para ser reanimado, fortalecido e enviado.</p>
+    <p>Aqui, não estamos apenas formando líderes. Estamos despertando vocacionados feridos, cansados, mas chamados para transformar sua geração.</p>
+    <p><strong>Você não chegou até aqui por acaso. É tempo de responder ao seu chamado.</strong></p>
+    <p>💥 Seja um líder segundo a vontade de Deus.<br />
+       💥 Lidere com propósito renovado. Discipule com paixão restaurada. Transforme com autoridade espiritual.<br />
+       💥 Essa é a sua hora. Esse é o seu momento.</p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Quero Fazer Parte da Mentoria VOCARE</a>
+  </section>
+
+  <section id="contato">
+    <h2>📱 Contato</h2>
+    <p>Quer conversar comigo? Clique no link abaixo e fale direto comigo pelo WhatsApp:</p>
+    <a href="https://wa.me/qr/WLAMCCIXMAO2P1" class="button" target="_blank" rel="noopener">Falar no WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Daniel Neves | Todos os direitos reservados</p>
+  </footer>
+</body>
